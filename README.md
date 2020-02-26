@@ -1,6 +1,7 @@
 ### Example lumino + itowns
 
-*Accompanying code demonstrating issue [xyz]()*
+*Accompanying code demonstrating [Itowns issue #1333](https://github.com/iTowns/itowns/issues/1333)*
+
 
 Interactive version :
 
